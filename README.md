@@ -1,5 +1,6 @@
 # sqrt
 
+Author: Luming
 A GitHub repository for us to use to practice branching and merging. Developed for use in the UBC DSCI 524 - Collaborative Software Development course.
 
 ## Usage:
